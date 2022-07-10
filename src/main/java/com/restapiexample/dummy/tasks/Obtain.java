@@ -1,7 +1,5 @@
 package com.restapiexample.dummy.tasks;
 
-import com.restapiexample.dummy.utils.Headers;
-import io.restassured.specification.RequestSpecification;
 import net.serenitybdd.rest.SerenityRest;
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Task;
